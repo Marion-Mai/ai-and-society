@@ -15,4 +15,4 @@ Using the [`Eulerr`](https://cran.r-project.org/package=eulerr) package.
 For any question, feel free to contact [me](https://www.parisgeo.cnrs.fr/spip.php?article8513&lang=fr) 
 
 #### Licence
-This website is released under the <a href="LICENSE">**GNU AFFERO GENERAL PUBLIC LICENSE v3**</a>
+This repository is released under the <a href="LICENSE">**GNU AFFERO GENERAL PUBLIC LICENSE v3**</a>
