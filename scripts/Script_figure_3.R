@@ -5,6 +5,8 @@
 
 library(readr)
 library(tidyverse)
+library(scales)
+library(cowplot)
 
 ####
 
@@ -36,7 +38,7 @@ plot_fig3 <- ggplot(tbl, aes(x = as.Date(year, format = "%Y"), y = records, grou
   scale_x_date(limits = as.Date(c("1961-01-01","2019-01-01"), format = "%Y"), expand = c(0, 80),
                breaks = seq(as.Date("1961-01-01"), as.Date("2019-01-01"), by = "4 years"), # breaks = date_breaks("2 years"), ##
                labels = date_format("%Y")) +
-  ggtitle("Annual number of publications about traffic flow and water quality") + 
+  ggtitle("Annual number of publications about traffic flow and water quality") +
   scale_color_manual(values = colors, labels = c("Traffic flow studies", "Water quality studies")) + # , name = "Variables",
   theme(plot.title = element_text(size = 11), #face = "bold",
         plot.subtitle = element_text(face = "italic"),

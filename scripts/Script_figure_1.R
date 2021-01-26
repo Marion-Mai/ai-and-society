@@ -20,7 +20,7 @@ plot(fit)
 intersections <- euler(c("A" = 426386, "B" = 313866, "C" = 83741,
                                  "A&B" = 59541, "A&C" = 10871, "B&C" = 5494,
                                  "A&B&C" = 2137))
-euler()
+# euler()
 eulerr_options()
 # opar <- par()
 

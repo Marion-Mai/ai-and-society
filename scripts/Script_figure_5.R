@@ -5,6 +5,8 @@
 
 library(readr)
 library(tidyverse)
+library(scales)
+library(cowplot)
 
 ####
 ####
@@ -42,9 +44,9 @@ plot_fig5 <- ggplot(tbl, aes(x = as.Date(year, format = "%Y"), y = records, grou
   theme_light() +
   xlab("Publication years up until 2018") + ylab("Number of publications") +
   scale_x_date(limits = as.Date(c("1991-01-01","2019-01-01"), format = "%Y"), expand = c(0, 80),
-               breaks = seq(as.Date("1992-01-01"), as.Date("2018-01-01"), by = "4 years"), # breaks = date_breaks("2 years"), 
+               breaks = seq(as.Date("1992-01-01"), as.Date("2018-01-01"), by = "4 years"), # breaks = date_breaks("2 years"),
                labels = date_format("%Y")) +
-  ggtitle("Publications about Traffic Flow and Water Quality in Computer Science, Mathematics, and Physics titles") + 
+  ggtitle("Publications about Traffic Flow and Water Quality in Computer Science, Mathematics, and Physics titles") +
   scale_color_manual(values = colors, labels = c("Computer Science", "Mathematics",
                                                  "Physics")) + # , name = "Variables",
   theme(plot.title = element_text(size = 11), #face = "bold",
@@ -53,7 +55,7 @@ plot_fig5 <- ggplot(tbl, aes(x = as.Date(year, format = "%Y"), y = records, grou
         panel.grid.major.x = element_blank(),
         strip.background = element_rect(fill = "cadetblue4", color = "cadetblue4"),
         # strip.text = element_text(colour = 'black'),
-        legend.position = "bottom", # c(0.25, 0.75), 
+        legend.position = "bottom", # c(0.25, 0.75),
         # legend.box = "vertical",
         legend.background = element_rect(fill = NA), #colour = "grey80"
         legend.title = element_blank()

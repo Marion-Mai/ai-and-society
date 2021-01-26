@@ -5,6 +5,8 @@
 
 library(readr)
 library(tidyverse)
+library(scales)
+library(cowplot)
 
 ####
 
@@ -44,9 +46,9 @@ plot_fig4 <- ggplot(tbl, aes(x = as.Date(year, format = "%Y"), y = records, grou
   theme_light() +
   xlab("Publication years up until 2018") + ylab("Number of publications") +
   scale_x_date(limits = as.Date(c("1992-01-01","2019-01-01"), format = "%Y"), expand = c(0, 80),
-               breaks = seq(as.Date("1992-01-01"), as.Date("2019-01-01"), by = "4 years"), # breaks = date_breaks("2 years"), 
+               breaks = seq(as.Date("1992-01-01"), as.Date("2019-01-01"), by = "4 years"), # breaks = date_breaks("2 years"),
                labels = date_format("%Y")) +
-  ggtitle("Growth of Big Data, AI and other Machine Learning publications in Traffic Flow and Water Quality studies") + 
+  ggtitle("Growth of Big Data, AI and other Machine Learning publications in Traffic Flow and Water Quality studies") +
   scale_color_manual(values = colors, labels = c("Logic-Based AI", "Connexionnist AI",
                                                  "Big Data", "Machine Learning, else")) + # , name = "Variables",
   theme(plot.title = element_text(size = 11), #face = "bold",
