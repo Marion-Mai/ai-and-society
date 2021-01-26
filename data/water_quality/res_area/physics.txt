@@ -1,0 +1,11 @@
+﻿Publication Years	records	% of 22
+2020	3	13.636
+2019	4	18.182
+2018	4	18.182
+2017	3	13.636
+2016	2	9.091
+2011	1	4.545
+2009	3	13.636
+1999	1	4.545
+1994	1	4.545
+(0 records (0.000%) do not contain data in the field being analyzed.)

@@ -1,0 +1,4 @@
+w_1, Water & Logic-Based AI
+w_2, Water & Connexionnist AI
+w_3, Water & Big Data
+w_4, Water & Machine Learning, else

@@ -1,0 +1,13 @@
+﻿Publication Years	records	% of 12
+2020	1	8.333
+2019	1	8.333
+2018	1	8.333
+2012	1	8.333
+2009	1	8.333
+2007	1	8.333
+2005	1	8.333
+2004	1	8.333
+2003	2	16.667
+2002	1	8.333
+1999	1	8.333
+(0 records (0.000%) do not contain data in the field being analyzed.)

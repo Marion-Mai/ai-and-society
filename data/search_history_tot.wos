@@ -1,0 +1,671 @@
+﻿<search>
+<application_name>WOS</application_name>
+<application_version>WoK 5.5</application_version>
+<search_name>Test Search</search_name>
+<search_desc>Test Search Description</search_desc>
+<sets>
+<set>
+<set_number>1</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[WC = Transportation]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[WC = Transportation]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[WC = Transportation]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[WC = Transportation]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options>[]</options>
+<user_query_string_xml><Field><![CDATA[WC = Transportation]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>2</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[WC = Water Resources]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[WC = Water Resources]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[WC = Water Resources]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[WC = Water Resources]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options>[]</options>
+<user_query_string_xml><Field><![CDATA[WC = Water Resources]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>3</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS =(&quot;Big Data*&quot; OR Bigdata* OR &quot;MapReduce*&quot; OR &quot;Map$Reduce*&quot; OR Hadoop* OR Hbase OR &quot;No SQL&quot; OR &quot;NoSQL&quot; OR &quot;NoSQL Database&quot; OR Newsql OR Big Near/1 Data OR Huge Near/1 Data OR &quot;Massive Data&quot; OR &quot;Data Lake&quot; OR &quot;Massive Information&quot; OR &quot;Huge Information&quot; OR &quot;Big Information&quot; OR &quot;Large-scale Data*&quot; OR &quot;Largescale Data*&quot; OR Petabyte OR Exabyte OR Zettabyte OR &quot;Semi-Structured Data&quot; OR &quot;Semistructured Data&quot; OR &quot;Unstructured Data&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS =(&quot;Big Data*&quot; OR Bigdata* OR &quot;MapReduce*&quot; OR &quot;Map$Reduce*&quot; OR Hadoop* OR Hbase OR &quot;No SQL&quot; OR &quot;NoSQL&quot; OR &quot;NoSQL Database&quot; OR Newsql OR Big Near/1 Data OR Huge Near/1 Data OR &quot;Massive Data&quot; OR &quot;Data Lake&quot; OR &quot;Massive Information&quot; OR &quot;Huge Information&quot; OR &quot;Big Information&quot; OR &quot;Large-scale Data*&quot; OR &quot;Largescale Data*&quot; OR Petabyte OR Exabyte OR Zettabyte OR &quot;Semi-Structured Data&quot; OR &quot;Semistructured Data&quot; OR &quot;Unstructured Data&quot;)]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS =(&quot;Big Data*&quot; OR Bigdata* OR &quot;MapReduce*&quot; OR &quot;Map$Reduce*&quot; OR Hadoop* OR Hbase OR &quot;No SQL&quot; OR &quot;NoSQL&quot; OR &quot;NoSQL Database&quot; OR Newsql OR Big Near/1 Data OR Huge Near/1 Data OR &quot;Massive Data&quot; OR &quot;Data Lake&quot; OR &quot;Massive Information&quot; OR &quot;Huge Information&quot; OR &quot;Big Information&quot; OR &quot;Large-scale Data*&quot; OR &quot;Largescale Data*&quot; OR Petabyte OR Exabyte OR Zettabyte OR &quot;Semi-Structured Data&quot; OR &quot;Semistructured Data&quot; OR &quot;Unstructured Data&quot;)]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS =(&quot;Big Data*&quot; OR Bigdata* OR &quot;MapReduce*&quot; OR &quot;Map$Reduce*&quot; OR Hadoop* OR Hbase OR &quot;No SQL&quot; OR &quot;NoSQL&quot; OR &quot;NoSQL Database&quot; OR Newsql OR Big Near/1 Data OR Huge Near/1 Data OR &quot;Massive Data&quot; OR &quot;Data Lake&quot; OR &quot;Massive Information&quot; OR &quot;Huge Information&quot; OR &quot;Big Information&quot; OR &quot;Large-scale Data*&quot; OR &quot;Largescale Data*&quot; OR Petabyte OR Exabyte OR Zettabyte OR &quot;Semi-Structured Data&quot; OR &quot;Semistructured Data&quot; OR &quot;Unstructured Data&quot;)]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options>[]</options>
+<user_query_string_xml><Field><![CDATA[TS =(&quot;Big Data*&quot; OR Bigdata* OR &quot;MapReduce*&quot; OR &quot;Map$Reduce*&quot; OR Hadoop* OR Hbase OR &quot;No SQL&quot; OR &quot;NoSQL&quot; OR &quot;NoSQL Database&quot; OR Newsql OR Big Near/1 Data OR Huge Near/1 Data OR &quot;Massive Data&quot; OR &quot;Data Lake&quot; OR &quot;Massive Information&quot; OR &quot;Huge Information&quot; OR &quot;Big Information&quot; OR &quot;Large-scale Data*&quot; OR &quot;Largescale Data*&quot; OR Petabyte OR Exabyte OR Zettabyte OR &quot;Semi-Structured Data&quot; OR &quot;Semistructured Data&quot; OR &quot;Unstructured Data&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>4</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS = (&quot;knowledge representation*&quot; OR &quot;expert system*&quot; OR &quot;knowledge based system*&quot; OR &quot;inference engine*&quot; OR &quot;search tree*&quot; OR &quot;minimax&quot; OR &quot;tree search&quot; OR &quot;Logic programming&quot; OR &quot;theorem prover*&quot; OR (&quot;planning&quot; AND &quot;logic&quot;) OR &quot;logic programming&quot; OR &quot;lisp&quot; OR &quot;prolog&quot; OR &quot;deductive database*&quot; OR &quot;nonmonotonic reasoning*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS = (&quot;knowledge representation*&quot; OR &quot;expert system*&quot; OR &quot;knowledge based system*&quot; OR &quot;inference engine*&quot; OR &quot;search tree*&quot; OR &quot;minimax&quot; OR &quot;tree search&quot; OR &quot;Logic programming&quot; OR &quot;theorem prover*&quot; OR (&quot;planning&quot; AND &quot;logic&quot;) OR &quot;logic programming&quot; OR &quot;lisp&quot; OR &quot;prolog&quot; OR &quot;deductive database*&quot; OR &quot;nonmonotonic reasoning*&quot;)]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS = (&quot;knowledge representation*&quot; OR &quot;expert system*&quot; OR &quot;knowledge based system*&quot; OR &quot;inference engine*&quot; OR &quot;search tree*&quot; OR &quot;minimax&quot; OR &quot;tree search&quot; OR &quot;Logic programming&quot; OR &quot;theorem prover*&quot; OR (&quot;planning&quot; AND &quot;logic&quot;) OR &quot;logic programming&quot; OR &quot;lisp&quot; OR &quot;prolog&quot; OR &quot;deductive database*&quot; OR &quot;nonmonotonic reasoning*&quot;)]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS = (&quot;knowledge representation*&quot; OR &quot;expert system*&quot; OR &quot;knowledge based system*&quot; OR &quot;inference engine*&quot; OR &quot;search tree*&quot; OR &quot;minimax&quot; OR &quot;tree search&quot; OR &quot;Logic programming&quot; OR &quot;theorem prover*&quot; OR (&quot;planning&quot; AND &quot;logic&quot;) OR &quot;logic programming&quot; OR &quot;lisp&quot; OR &quot;prolog&quot; OR &quot;deductive database*&quot; OR &quot;nonmonotonic reasoning*&quot;)]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options>[]</options>
+<user_query_string_xml><Field><![CDATA[TS = (&quot;knowledge representation*&quot; OR &quot;expert system*&quot; OR &quot;knowledge based system*&quot; OR &quot;inference engine*&quot; OR &quot;search tree*&quot; OR &quot;minimax&quot; OR &quot;tree search&quot; OR &quot;Logic programming&quot; OR &quot;theorem prover*&quot; OR (&quot;planning&quot; AND &quot;logic&quot;) OR &quot;logic programming&quot; OR &quot;lisp&quot; OR &quot;prolog&quot; OR &quot;deductive database*&quot; OR &quot;nonmonotonic reasoning*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>5</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS =  (&quot;artificial neural network*&quot; OR &quot;Deep learning&quot; OR &quot;perceptron*&quot; OR &quot;Backprop*&quot; OR &quot;Deep neural network*&quot; OR &quot;Convolutional neural network*&quot; OR (&quot;CNN&quot; AND &quot;neural network*&quot;) OR (&quot;LSTM&quot; AND &quot;neural network*&quot;) OR (&quot;recurrent neural network*&quot; OR (&quot;RNN*&quot; AND &quot;neural network*&quot;)) OR &quot;Boltzmann machine*&quot; OR &quot;hopfield network*&quot; OR &quot;Autoencoder*&quot; OR &quot;Deep belief network*&quot; OR &quot;adversarial neural network*&quot; OR &quot;generative adversarial network*&quot; OR (&quot;ANN$&quot; AND &quot;neural network*&quot;) OR (&quot;GAN$&quot; AND &quot;neural network*&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS =  (&quot;artificial neural network*&quot; OR &quot;Deep learning&quot; OR &quot;perceptron*&quot; OR &quot;Backprop*&quot; OR &quot;Deep neural network*&quot; OR &quot;Convolutional neural network*&quot; OR (&quot;CNN&quot; AND &quot;neural network*&quot;) OR (&quot;LSTM&quot; AND &quot;neural network*&quot;) OR (&quot;recurrent neural network*&quot; OR (&quot;RNN*&quot; AND &quot;neural network*&quot;)) OR &quot;Boltzmann machine*&quot; OR &quot;hopfield network*&quot; OR &quot;Autoencoder*&quot; OR &quot;Deep belief network*&quot; OR &quot;adversarial neural network*&quot; OR &quot;generative adversarial network*&quot; OR (&quot;ANN$&quot; AND &quot;neural network*&quot;) OR (&quot;GAN$&quot; AND &quot;neural network*&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS =  (&quot;artificial neural network*&quot; OR &quot;Deep learning&quot; OR &quot;perceptron*&quot; OR &quot;Backprop*&quot; OR &quot;Deep neural network*&quot; OR &quot;Convolutional neural network*&quot; OR (&quot;CNN&quot; AND &quot;neural network*&quot;) OR (&quot;LSTM&quot; AND &quot;neural network*&quot;) OR (&quot;recurrent neural network*&quot; OR (&quot;RNN*&quot; AND &quot;neural network*&quot;)) OR &quot;Boltzmann machine*&quot; OR &quot;hopfield network*&quot; OR &quot;Autoencoder*&quot; OR &quot;Deep belief network*&quot; OR &quot;adversarial neural network*&quot; OR &quot;generative adversarial network*&quot; OR (&quot;ANN$&quot; AND &quot;neural network*&quot;) OR (&quot;GAN$&quot; AND &quot;neural network*&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS =  (&quot;artificial neural network*&quot; OR &quot;Deep learning&quot; OR &quot;perceptron*&quot; OR &quot;Backprop*&quot; OR &quot;Deep neural network*&quot; OR &quot;Convolutional neural network*&quot; OR (&quot;CNN&quot; AND &quot;neural network*&quot;) OR (&quot;LSTM&quot; AND &quot;neural network*&quot;) OR (&quot;recurrent neural network*&quot; OR (&quot;RNN*&quot; AND &quot;neural network*&quot;)) OR &quot;Boltzmann machine*&quot; OR &quot;hopfield network*&quot; OR &quot;Autoencoder*&quot; OR &quot;Deep belief network*&quot; OR &quot;adversarial neural network*&quot; OR &quot;generative adversarial network*&quot; OR (&quot;ANN$&quot; AND &quot;neural network*&quot;) OR (&quot;GAN$&quot; AND &quot;neural network*&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options>[]</options>
+<user_query_string_xml><Field><![CDATA[TS =  (&quot;artificial neural network*&quot; OR &quot;Deep learning&quot; OR &quot;perceptron*&quot; OR &quot;Backprop*&quot; OR &quot;Deep neural network*&quot; OR &quot;Convolutional neural network*&quot; OR (&quot;CNN&quot; AND &quot;neural network*&quot;) OR (&quot;LSTM&quot; AND &quot;neural network*&quot;) OR (&quot;recurrent neural network*&quot; OR (&quot;RNN*&quot; AND &quot;neural network*&quot;)) OR &quot;Boltzmann machine*&quot; OR &quot;hopfield network*&quot; OR &quot;Autoencoder*&quot; OR &quot;Deep belief network*&quot; OR &quot;adversarial neural network*&quot; OR &quot;generative adversarial network*&quot; OR (&quot;ANN$&quot; AND &quot;neural network*&quot;) OR (&quot;GAN$&quot; AND &quot;neural network*&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>6</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS = (&quot;Machine* Learn*&quot; OR &quot;Support Vector Machine$&quot; OR &quot;Support Vector Network$&quot; OR &quot;Random Forest$&quot; OR &quot;Genetic Algorithm$&quot; OR &quot;Bayes* Network$&quot; OR &quot;belief network$&quot; OR &quot;directed acyclic graphic*&quot; OR &quot;supervised learn*&quot; OR &quot;semi$supervised learn*&quot; OR &quot;unsupervised learn*&quot; OR &quot;reinforcement learn*&quot; OR &quot;turing learn*&quot;)]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS = (&quot;Machine* Learn*&quot; OR &quot;Support Vector Machine$&quot; OR &quot;Support Vector Network$&quot; OR &quot;Random Forest$&quot; OR &quot;Genetic Algorithm$&quot; OR &quot;Bayes* Network$&quot; OR &quot;belief network$&quot; OR &quot;directed acyclic graphic*&quot; OR &quot;supervised learn*&quot; OR &quot;semi$supervised learn*&quot; OR &quot;unsupervised learn*&quot; OR &quot;reinforcement learn*&quot; OR &quot;turing learn*&quot;)]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS = (&quot;Machine* Learn*&quot; OR &quot;Support Vector Machine$&quot; OR &quot;Support Vector Network$&quot; OR &quot;Random Forest$&quot; OR &quot;Genetic Algorithm$&quot; OR &quot;Bayes* Network$&quot; OR &quot;belief network$&quot; OR &quot;directed acyclic graphic*&quot; OR &quot;supervised learn*&quot; OR &quot;semi$supervised learn*&quot; OR &quot;unsupervised learn*&quot; OR &quot;reinforcement learn*&quot; OR &quot;turing learn*&quot;)]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS = (&quot;Machine* Learn*&quot; OR &quot;Support Vector Machine$&quot; OR &quot;Support Vector Network$&quot; OR &quot;Random Forest$&quot; OR &quot;Genetic Algorithm$&quot; OR &quot;Bayes* Network$&quot; OR &quot;belief network$&quot; OR &quot;directed acyclic graphic*&quot; OR &quot;supervised learn*&quot; OR &quot;semi$supervised learn*&quot; OR &quot;unsupervised learn*&quot; OR &quot;reinforcement learn*&quot; OR &quot;turing learn*&quot;)]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options>[]</options>
+<user_query_string_xml><Field><![CDATA[TS = (&quot;Machine* Learn*&quot; OR &quot;Support Vector Machine$&quot; OR &quot;Support Vector Network$&quot; OR &quot;Random Forest$&quot; OR &quot;Genetic Algorithm$&quot; OR &quot;Bayes* Network$&quot; OR &quot;belief network$&quot; OR &quot;directed acyclic graphic*&quot; OR &quot;supervised learn*&quot; OR &quot;semi$supervised learn*&quot; OR &quot;unsupervised learn*&quot; OR &quot;reinforcement learn*&quot; OR &quot;turing learn*&quot;)]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>7</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS = (&quot;Machine* Learn*&quot; OR &quot;Support Vector Machine$&quot; OR &quot;Support Vector Network$&quot; OR &quot;Random Forest$&quot; OR &quot;Genetic Algorithm$&quot; OR &quot;Bayes* Network$&quot; OR &quot;belief network$&quot; OR &quot;directed acyclic graphic*&quot; OR &quot;supervised learn*&quot; OR &quot;semi$supervised learn*&quot; OR &quot;unsupervised learn*&quot; OR &quot;reinforcement learn*&quot; OR &quot;turing learn*&quot;) NOT TS = (&quot;knowledge representation*&quot; OR &quot;expert system*&quot; OR &quot;knowledge based system*&quot; OR &quot;inference engine*&quot; OR &quot;search tree*&quot; OR &quot;minimax&quot; OR &quot;tree search&quot; OR &quot;Logic programming&quot; OR &quot;theorem prover*&quot; OR (&quot;planning&quot; AND &quot;logic&quot;) OR &quot;logic programming&quot; OR &quot;lisp&quot; OR &quot;prolog&quot; OR &quot;deductive database*&quot; OR &quot;nonmonotonic reasoning*&quot; OR &quot;artificial neural network*&quot; OR &quot;Deep learning&quot; OR &quot;perceptron*&quot; OR &quot;Backprop*&quot; OR &quot;Deep neural network*&quot; OR &quot;Convolutional neural network*&quot; OR (&quot;CNN&quot; AND &quot;neural network*&quot;) OR (&quot;LSTM&quot; AND &quot;neural network*&quot;) OR (&quot;recurrent neural network*&quot; OR (&quot;RNN*&quot; AND &quot;neural network*&quot;)) OR &quot;Boltzmann machine*&quot; OR &quot;hopfield network*&quot; OR &quot;Autoencoder*&quot; OR &quot;Deep belief network*&quot; OR &quot;adversarial neural network*&quot; OR &quot;generative adversarial network*&quot; OR (&quot;ANN$&quot; AND &quot;neural network*&quot;) OR (&quot;GAN$&quot; AND &quot;neural network*&quot;) OR (&quot;Big Data*&quot; OR Bigdata* OR &quot;MapReduce*&quot; OR &quot;Map$Reduce*&quot; OR Hadoop* OR Hbase OR &quot;No SQL&quot; OR &quot;NoSQL&quot; OR &quot;NoSQL Database&quot; OR Newsql OR Big Near/1 Data or Huge Near/1 Data OR &quot;Massive Data&quot; OR &quot;Data Lake&quot; OR &quot;Massive Information&quot; OR &quot;Huge Information&quot; OR &quot;Big Information&quot; OR &quot;Large-scale Data*&quot; OR &quot;Largescale Data*&quot; OR Petabyte OR Exabyte OR Zettabyte OR &quot;Semi-Structured Data&quot; OR &quot;Semistructured Data&quot; OR &quot;Unstructured Data&quot;))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS = (&quot;Machine* Learn*&quot; OR &quot;Support Vector Machine$&quot; OR &quot;Support Vector Network$&quot; OR &quot;Random Forest$&quot; OR &quot;Genetic Algorithm$&quot; OR &quot;Bayes* Network$&quot; OR &quot;belief network$&quot; OR &quot;directed acyclic graphic*&quot; OR &quot;supervised learn*&quot; OR &quot;semi$supervised learn*&quot; OR &quot;unsupervised learn*&quot; OR &quot;reinforcement learn*&quot; OR &quot;turing learn*&quot;) NOT TS = (&quot;knowledge representation*&quot; OR &quot;expert system*&quot; OR &quot;knowledge based system*&quot; OR &quot;inference engine*&quot; OR &quot;search tree*&quot; OR &quot;minimax&quot; OR &quot;tree search&quot; OR &quot;Logic programming&quot; OR &quot;theorem prover*&quot; OR (&quot;planning&quot; AND &quot;logic&quot;) OR &quot;logic programming&quot; OR &quot;lisp&quot; OR &quot;prolog&quot; OR &quot;deductive database*&quot; OR &quot;nonmonotonic reasoning*&quot; OR &quot;artificial neural network*&quot; OR &quot;Deep learning&quot; OR &quot;perceptron*&quot; OR &quot;Backprop*&quot; OR &quot;Deep neural network*&quot; OR &quot;Convolutional neural network*&quot; OR (&quot;CNN&quot; AND &quot;neural network*&quot;) OR (&quot;LSTM&quot; AND &quot;neural network*&quot;) OR (&quot;recurrent neural network*&quot; OR (&quot;RNN*&quot; AND &quot;neural network*&quot;)) OR &quot;Boltzmann machine*&quot; OR &quot;hopfield network*&quot; OR &quot;Autoencoder*&quot; OR &quot;Deep belief network*&quot; OR &quot;adversarial neural network*&quot; OR &quot;generative adversarial network*&quot; OR (&quot;ANN$&quot; AND &quot;neural network*&quot;) OR (&quot;GAN$&quot; AND &quot;neural network*&quot;) OR (&quot;Big Data*&quot; OR Bigdata* OR &quot;MapReduce*&quot; OR &quot;Map$Reduce*&quot; OR Hadoop* OR Hbase OR &quot;No SQL&quot; OR &quot;NoSQL&quot; OR &quot;NoSQL Database&quot; OR Newsql OR Big Near/1 Data or Huge Near/1 Data OR &quot;Massive Data&quot; OR &quot;Data Lake&quot; OR &quot;Massive Information&quot; OR &quot;Huge Information&quot; OR &quot;Big Information&quot; OR &quot;Large-scale Data*&quot; OR &quot;Largescale Data*&quot; OR Petabyte OR Exabyte OR Zettabyte OR &quot;Semi-Structured Data&quot; OR &quot;Semistructured Data&quot; OR &quot;Unstructured Data&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS = (&quot;Machine* Learn*&quot; OR &quot;Support Vector Machine$&quot; OR &quot;Support Vector Network$&quot; OR &quot;Random Forest$&quot; OR &quot;Genetic Algorithm$&quot; OR &quot;Bayes* Network$&quot; OR &quot;belief network$&quot; OR &quot;directed acyclic graphic*&quot; OR &quot;supervised learn*&quot; OR &quot;semi$supervised learn*&quot; OR &quot;unsupervised learn*&quot; OR &quot;reinforcement learn*&quot; OR &quot;turing learn*&quot;) NOT TS = (&quot;knowledge representation*&quot; OR &quot;expert system*&quot; OR &quot;knowledge based system*&quot; OR &quot;inference engine*&quot; OR &quot;search tree*&quot; OR &quot;minimax&quot; OR &quot;tree search&quot; OR &quot;Logic programming&quot; OR &quot;theorem prover*&quot; OR (&quot;planning&quot; AND &quot;logic&quot;) OR &quot;logic programming&quot; OR &quot;lisp&quot; OR &quot;prolog&quot; OR &quot;deductive database*&quot; OR &quot;nonmonotonic reasoning*&quot; OR &quot;artificial neural network*&quot; OR &quot;Deep learning&quot; OR &quot;perceptron*&quot; OR &quot;Backprop*&quot; OR &quot;Deep neural network*&quot; OR &quot;Convolutional neural network*&quot; OR (&quot;CNN&quot; AND &quot;neural network*&quot;) OR (&quot;LSTM&quot; AND &quot;neural network*&quot;) OR (&quot;recurrent neural network*&quot; OR (&quot;RNN*&quot; AND &quot;neural network*&quot;)) OR &quot;Boltzmann machine*&quot; OR &quot;hopfield network*&quot; OR &quot;Autoencoder*&quot; OR &quot;Deep belief network*&quot; OR &quot;adversarial neural network*&quot; OR &quot;generative adversarial network*&quot; OR (&quot;ANN$&quot; AND &quot;neural network*&quot;) OR (&quot;GAN$&quot; AND &quot;neural network*&quot;) OR (&quot;Big Data*&quot; OR Bigdata* OR &quot;MapReduce*&quot; OR &quot;Map$Reduce*&quot; OR Hadoop* OR Hbase OR &quot;No SQL&quot; OR &quot;NoSQL&quot; OR &quot;NoSQL Database&quot; OR Newsql OR Big Near/1 Data or Huge Near/1 Data OR &quot;Massive Data&quot; OR &quot;Data Lake&quot; OR &quot;Massive Information&quot; OR &quot;Huge Information&quot; OR &quot;Big Information&quot; OR &quot;Large-scale Data*&quot; OR &quot;Largescale Data*&quot; OR Petabyte OR Exabyte OR Zettabyte OR &quot;Semi-Structured Data&quot; OR &quot;Semistructured Data&quot; OR &quot;Unstructured Data&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS = (&quot;Machine* Learn*&quot; OR &quot;Support Vector Machine$&quot; OR &quot;Support Vector Network$&quot; OR &quot;Random Forest$&quot; OR &quot;Genetic Algorithm$&quot; OR &quot;Bayes* Network$&quot; OR &quot;belief network$&quot; OR &quot;directed acyclic graphic*&quot; OR &quot;supervised learn*&quot; OR &quot;semi$supervised learn*&quot; OR &quot;unsupervised learn*&quot; OR &quot;reinforcement learn*&quot; OR &quot;turing learn*&quot;) NOT TS = (&quot;knowledge representation*&quot; OR &quot;expert system*&quot; OR &quot;knowledge based system*&quot; OR &quot;inference engine*&quot; OR &quot;search tree*&quot; OR &quot;minimax&quot; OR &quot;tree search&quot; OR &quot;Logic programming&quot; OR &quot;theorem prover*&quot; OR (&quot;planning&quot; AND &quot;logic&quot;) OR &quot;logic programming&quot; OR &quot;lisp&quot; OR &quot;prolog&quot; OR &quot;deductive database*&quot; OR &quot;nonmonotonic reasoning*&quot; OR &quot;artificial neural network*&quot; OR &quot;Deep learning&quot; OR &quot;perceptron*&quot; OR &quot;Backprop*&quot; OR &quot;Deep neural network*&quot; OR &quot;Convolutional neural network*&quot; OR (&quot;CNN&quot; AND &quot;neural network*&quot;) OR (&quot;LSTM&quot; AND &quot;neural network*&quot;) OR (&quot;recurrent neural network*&quot; OR (&quot;RNN*&quot; AND &quot;neural network*&quot;)) OR &quot;Boltzmann machine*&quot; OR &quot;hopfield network*&quot; OR &quot;Autoencoder*&quot; OR &quot;Deep belief network*&quot; OR &quot;adversarial neural network*&quot; OR &quot;generative adversarial network*&quot; OR (&quot;ANN$&quot; AND &quot;neural network*&quot;) OR (&quot;GAN$&quot; AND &quot;neural network*&quot;) OR (&quot;Big Data*&quot; OR Bigdata* OR &quot;MapReduce*&quot; OR &quot;Map$Reduce*&quot; OR Hadoop* OR Hbase OR &quot;No SQL&quot; OR &quot;NoSQL&quot; OR &quot;NoSQL Database&quot; OR Newsql OR Big Near/1 Data or Huge Near/1 Data OR &quot;Massive Data&quot; OR &quot;Data Lake&quot; OR &quot;Massive Information&quot; OR &quot;Huge Information&quot; OR &quot;Big Information&quot; OR &quot;Large-scale Data*&quot; OR &quot;Largescale Data*&quot; OR Petabyte OR Exabyte OR Zettabyte OR &quot;Semi-Structured Data&quot; OR &quot;Semistructured Data&quot; OR &quot;Unstructured Data&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options>[]</options>
+<user_query_string_xml><Field><![CDATA[TS = (&quot;Machine* Learn*&quot; OR &quot;Support Vector Machine$&quot; OR &quot;Support Vector Network$&quot; OR &quot;Random Forest$&quot; OR &quot;Genetic Algorithm$&quot; OR &quot;Bayes* Network$&quot; OR &quot;belief network$&quot; OR &quot;directed acyclic graphic*&quot; OR &quot;supervised learn*&quot; OR &quot;semi$supervised learn*&quot; OR &quot;unsupervised learn*&quot; OR &quot;reinforcement learn*&quot; OR &quot;turing learn*&quot;) NOT TS = (&quot;knowledge representation*&quot; OR &quot;expert system*&quot; OR &quot;knowledge based system*&quot; OR &quot;inference engine*&quot; OR &quot;search tree*&quot; OR &quot;minimax&quot; OR &quot;tree search&quot; OR &quot;Logic programming&quot; OR &quot;theorem prover*&quot; OR (&quot;planning&quot; AND &quot;logic&quot;) OR &quot;logic programming&quot; OR &quot;lisp&quot; OR &quot;prolog&quot; OR &quot;deductive database*&quot; OR &quot;nonmonotonic reasoning*&quot; OR &quot;artificial neural network*&quot; OR &quot;Deep learning&quot; OR &quot;perceptron*&quot; OR &quot;Backprop*&quot; OR &quot;Deep neural network*&quot; OR &quot;Convolutional neural network*&quot; OR (&quot;CNN&quot; AND &quot;neural network*&quot;) OR (&quot;LSTM&quot; AND &quot;neural network*&quot;) OR (&quot;recurrent neural network*&quot; OR (&quot;RNN*&quot; AND &quot;neural network*&quot;)) OR &quot;Boltzmann machine*&quot; OR &quot;hopfield network*&quot; OR &quot;Autoencoder*&quot; OR &quot;Deep belief network*&quot; OR &quot;adversarial neural network*&quot; OR &quot;generative adversarial network*&quot; OR (&quot;ANN$&quot; AND &quot;neural network*&quot;) OR (&quot;GAN$&quot; AND &quot;neural network*&quot;) OR (&quot;Big Data*&quot; OR Bigdata* OR &quot;MapReduce*&quot; OR &quot;Map$Reduce*&quot; OR Hadoop* OR Hbase OR &quot;No SQL&quot; OR &quot;NoSQL&quot; OR &quot;NoSQL Database&quot; OR Newsql OR Big Near/1 Data or Huge Near/1 Data OR &quot;Massive Data&quot; OR &quot;Data Lake&quot; OR &quot;Massive Information&quot; OR &quot;Huge Information&quot; OR &quot;Big Information&quot; OR &quot;Large-scale Data*&quot; OR &quot;Largescale Data*&quot; OR Petabyte OR Exabyte OR Zettabyte OR &quot;Semi-Structured Data&quot; OR &quot;Semistructured Data&quot; OR &quot;Unstructured Data&quot;))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>8</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(((&quot;water quality&quot;) OR (river NEAR/1 quality)) AND (forecast* OR predict* OR model* OR simul* OR estimat*) AND (phosphorus OR nitrogen OR phytoplankton))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=(((&quot;water quality&quot;) OR (river NEAR/1 quality)) AND (forecast* OR predict* OR model* OR simul* OR estimat*) AND (phosphorus OR nitrogen OR phytoplankton)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=(((&quot;water quality&quot;) OR (river NEAR/1 quality)) AND (forecast* OR predict* OR model* OR simul* OR estimat*) AND (phosphorus OR nitrogen OR phytoplankton)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=(((&quot;water quality&quot;) OR (river NEAR/1 quality)) AND (forecast* OR predict* OR model* OR simul* OR estimat*) AND (phosphorus OR nitrogen OR phytoplankton)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(((&quot;water quality&quot;) OR (river NEAR/1 quality)) AND (forecast* OR predict* OR model* OR simul* OR estimat*) AND (phosphorus OR nitrogen OR phytoplankton))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>9</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=((&quot;traffic flow*&quot;) AND (forecast* OR model* OR predict* OR simul* OR estimat*) AND (highway OR freeway OR motorway OR lane OR road OR street OR &quot;urban network*&quot; OR transportation))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[]]></refinedBy>
+<analysisHistory></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.IGeneralQuery</query_type>
+<preparsed><![CDATA[TS=((&quot;traffic flow*&quot;) AND (forecast* OR model* OR predict* OR simul* OR estimat*) AND (highway OR freeway OR motorway OR lane OR road OR street OR &quot;urban network*&quot; OR transportation)) ]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.IGeneralQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[TS=((&quot;traffic flow*&quot;) AND (forecast* OR model* OR predict* OR simul* OR estimat*) AND (highway OR freeway OR motorway OR lane OR road OR street OR &quot;urban network*&quot; OR transportation)) ]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[TS=((&quot;traffic flow*&quot;) AND (forecast* OR model* OR predict* OR simul* OR estimat*) AND (highway OR freeway OR motorway OR lane OR road OR street OR &quot;urban network*&quot; OR transportation)) ]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=((&quot;traffic flow*&quot;) AND (forecast* OR model* OR predict* OR simul* OR estimat*) AND (highway OR freeway OR motorway OR lane OR road OR street OR &quot;urban network*&quot; OR transportation))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[Suggest]]></ss_spellchecking>
+<ss_query_language><![CDATA[en]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>10</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=((&quot;traffic flow*&quot;) AND (forecast* OR model* OR predict* OR simul* OR estimat*) AND (highway OR freeway OR motorway OR lane OR road OR street OR &quot;urban network*&quot; OR transportation))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[<b>RESEARCH AREAS:</b> (COMPUTER SCIENCE)]]></refinedBy>
+<analysisHistory><analysis><Fields><Field name=&quot;ResearchArea&quot;><value><![CDATA[COMPUTER SCIENCE]]></value></Field></Fields></analysis></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>Analyze</query_desc>
+<query_type>com.thomson.ts.framework.query.ra.AnalyzeQuery</query_type>
+<preparsed><![CDATA[ #9 AND (SJ==(&quot;COMPUTER SCIENCE&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.ra.AnalyzeQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>Analyze</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[ #9 AND (SJ==(&quot;COMPUTER SCIENCE&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[ #9 AND (SJ==(&quot;COMPUTER SCIENCE&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=((&quot;traffic flow*&quot;) AND (forecast* OR model* OR predict* OR simul* OR estimat*) AND (highway OR freeway OR motorway OR lane OR road OR street OR &quot;urban network*&quot; OR transportation))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[]]></ss_spellchecking>
+<ss_query_language><![CDATA[auto]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>11</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=((&quot;traffic flow*&quot;) AND (forecast* OR model* OR predict* OR simul* OR estimat*) AND (highway OR freeway OR motorway OR lane OR road OR street OR &quot;urban network*&quot; OR transportation))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[<b>RESEARCH AREAS:</b> (PHYSICS)]]></refinedBy>
+<analysisHistory><analysis><Fields><Field name=&quot;ResearchArea&quot;><value><![CDATA[PHYSICS]]></value></Field></Fields></analysis></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>Analyze</query_desc>
+<query_type>com.thomson.ts.framework.query.ra.AnalyzeQuery</query_type>
+<preparsed><![CDATA[ #9 AND (SJ==(&quot;PHYSICS&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.ra.AnalyzeQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>Analyze</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[ #9 AND (SJ==(&quot;PHYSICS&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[ #9 AND (SJ==(&quot;PHYSICS&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=((&quot;traffic flow*&quot;) AND (forecast* OR model* OR predict* OR simul* OR estimat*) AND (highway OR freeway OR motorway OR lane OR road OR street OR &quot;urban network*&quot; OR transportation))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[]]></ss_spellchecking>
+<ss_query_language><![CDATA[auto]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>12</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=((&quot;traffic flow*&quot;) AND (forecast* OR model* OR predict* OR simul* OR estimat*) AND (highway OR freeway OR motorway OR lane OR road OR street OR &quot;urban network*&quot; OR transportation))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[<b>RESEARCH AREAS:</b> (MATHEMATICS)]]></refinedBy>
+<analysisHistory><analysis><Fields><Field name=&quot;ResearchArea&quot;><value><![CDATA[MATHEMATICS]]></value></Field></Fields></analysis></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>Analyze</query_desc>
+<query_type>com.thomson.ts.framework.query.ra.AnalyzeQuery</query_type>
+<preparsed><![CDATA[ #9 AND (SJ==(&quot;MATHEMATICS&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.ra.AnalyzeQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>Analyze</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[ #9 AND (SJ==(&quot;MATHEMATICS&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[ #9 AND (SJ==(&quot;MATHEMATICS&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=((&quot;traffic flow*&quot;) AND (forecast* OR model* OR predict* OR simul* OR estimat*) AND (highway OR freeway OR motorway OR lane OR road OR street OR &quot;urban network*&quot; OR transportation))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[]]></ss_spellchecking>
+<ss_query_language><![CDATA[auto]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>13</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(((&quot;water quality&quot;) OR (river NEAR/1 quality)) AND (forecast* OR predict* OR model* OR simul* OR estimat*) AND (phosphorus OR nitrogen OR phytoplankton))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[<b>RESEARCH AREAS:</b> (COMPUTER SCIENCE)]]></refinedBy>
+<analysisHistory><analysis><Fields><Field name=&quot;ResearchArea&quot;><value><![CDATA[COMPUTER SCIENCE]]></value></Field></Fields></analysis></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>Analyze</query_desc>
+<query_type>com.thomson.ts.framework.query.ra.AnalyzeQuery</query_type>
+<preparsed><![CDATA[ #8 AND (SJ==(&quot;COMPUTER SCIENCE&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.ra.AnalyzeQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>Analyze</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[ #8 AND (SJ==(&quot;COMPUTER SCIENCE&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[ #8 AND (SJ==(&quot;COMPUTER SCIENCE&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(((&quot;water quality&quot;) OR (river NEAR/1 quality)) AND (forecast* OR predict* OR model* OR simul* OR estimat*) AND (phosphorus OR nitrogen OR phytoplankton))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[]]></ss_spellchecking>
+<ss_query_language><![CDATA[auto]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>14</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(((&quot;water quality&quot;) OR (river NEAR/1 quality)) AND (forecast* OR predict* OR model* OR simul* OR estimat*) AND (phosphorus OR nitrogen OR phytoplankton))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[<b>RESEARCH AREAS:</b> (PHYSICS)]]></refinedBy>
+<analysisHistory><analysis><Fields><Field name=&quot;ResearchArea&quot;><value><![CDATA[PHYSICS]]></value></Field></Fields></analysis></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>Analyze</query_desc>
+<query_type>com.thomson.ts.framework.query.ra.AnalyzeQuery</query_type>
+<preparsed><![CDATA[ #8 AND (SJ==(&quot;PHYSICS&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.ra.AnalyzeQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>Analyze</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[ #8 AND (SJ==(&quot;PHYSICS&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[ #8 AND (SJ==(&quot;PHYSICS&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(((&quot;water quality&quot;) OR (river NEAR/1 quality)) AND (forecast* OR predict* OR model* OR simul* OR estimat*) AND (phosphorus OR nitrogen OR phytoplankton))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[]]></ss_spellchecking>
+<ss_query_language><![CDATA[auto]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>15</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=(((&quot;water quality&quot;) OR (river NEAR/1 quality)) AND (forecast* OR predict* OR model* OR simul* OR estimat*) AND (phosphorus OR nitrogen OR phytoplankton))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[<b>RESEARCH AREAS:</b> (MATHEMATICS)]]></refinedBy>
+<analysisHistory><analysis><Fields><Field name=&quot;ResearchArea&quot;><value><![CDATA[MATHEMATICS]]></value></Field></Fields></analysis></analysisHistory>
+<application_data>
+<service_mode></service_mode>
+<query_desc>Analyze</query_desc>
+<query_type>com.thomson.ts.framework.query.ra.AnalyzeQuery</query_type>
+<preparsed><![CDATA[ #8 AND (SJ==(&quot;MATHEMATICS&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.ra.AnalyzeQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>Analyze</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[ #8 AND (SJ==(&quot;MATHEMATICS&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[ #8 AND (SJ==(&quot;MATHEMATICS&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=(((&quot;water quality&quot;) OR (river NEAR/1 quality)) AND (forecast* OR predict* OR model* OR simul* OR estimat*) AND (phosphorus OR nitrogen OR phytoplankton))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[]]></ss_spellchecking>
+<ss_query_language><![CDATA[auto]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>16</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=((&quot;traffic flow*&quot;) AND (forecast* OR model* OR predict* OR simul* OR estimat*) AND (highway OR freeway OR motorway OR lane OR road OR street OR &quot;urban network*&quot; OR transportation))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[<b>SOURCE TITLES:</b> (TRANSPORTATION RESEARCH PART B METHODOLOGICAL)]]></refinedBy>
+<analysisHistory><analysis><Fields><Field name=&quot;SourceTitle&quot;><value><![CDATA[TRANSPORTATION RESEARCH PART B METHODOLOGICAL]]></value></Field></Fields></analysis></analysisHistory>
+<application_data>
+<service_mode>Refine</service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.ra.RefineQuery</query_type>
+<preparsed><![CDATA[ #9 AND (SO==(&quot;TRANSPORTATION RESEARCH PART B METHODOLOGICAL&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.ra.RefineQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[ #9 AND (SO==(&quot;TRANSPORTATION RESEARCH PART B METHODOLOGICAL&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[ #9 AND (SO==(&quot;TRANSPORTATION RESEARCH PART B METHODOLOGICAL&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=((&quot;traffic flow*&quot;) AND (forecast* OR model* OR predict* OR simul* OR estimat*) AND (highway OR freeway OR motorway OR lane OR road OR street OR &quot;urban network*&quot; OR transportation))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[]]></ss_spellchecking>
+<ss_query_language><![CDATA[auto]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+<set>
+<set_number>17</set_number>
+<field_id></field_id>
+<tns_id>WOS</tns_id>
+<parsed_query_string><![CDATA[]]></parsed_query_string>
+<user_query_string><![CDATA[TS=((&quot;traffic flow*&quot;) AND (forecast* OR model* OR predict* OR simul* OR estimat*) AND (highway OR freeway OR motorway OR lane OR road OR street OR &quot;urban network*&quot; OR transportation))]]></user_query_string>
+<user_timespan_string><![CDATA[input.tslimit.ALL]]></user_timespan_string>
+<parsed_dblimits_string><![CDATA[SCI SSCI AHCI ISTP ISSHP ESCI]]></parsed_dblimits_string>
+<user_editions_string><![CDATA[SCI-EXPANDED, SSCI, A&amp;HCI, CPCI-S, CPCI-SSH, ESCI]]></user_editions_string>
+<user_limits_string><![CDATA[]]></user_limits_string>
+<refinedBy><![CDATA[<b>SOURCE TITLES:</b> (TRANSPORTATION RESEARCH PART C EMERGING TECHNOLOGIES)]]></refinedBy>
+<analysisHistory><analysis><Fields><Field name=&quot;SourceTitle&quot;><value><![CDATA[TRANSPORTATION RESEARCH PART C EMERGING TECHNOLOGIES]]></value></Field></Fields></analysis></analysisHistory>
+<application_data>
+<service_mode>Refine</service_mode>
+<query_desc>AdvancedSearch</query_desc>
+<query_type>com.thomson.ts.framework.query.ra.RefineQuery</query_type>
+<preparsed><![CDATA[ #9 AND (SO==(&quot;TRANSPORTATION RESEARCH PART C EMERGING TECHNOLOGIES&quot;))]]></preparsed>
+<molecule><![CDATA[]]></molecule>
+<frag_codes><![CDATA[]]></frag_codes>
+<queryType>com.thomson.ts.framework.query.ra.RefineQuery</queryType>
+<query_syntax>3.3</query_syntax>
+<oldQuerySyntax></oldQuerySyntax>
+<search_mode>AdvancedSearch</search_mode>
+<colName></colName>
+<unparsedSearchInput><![CDATA[ #9 AND (SO==(&quot;TRANSPORTATION RESEARCH PART C EMERGING TECHNOLOGIES&quot;))]]></unparsedSearchInput>
+<parsedSearchInput><![CDATA[]]></parsedSearchInput>
+<unparsedSearchNoLimits><![CDATA[ #9 AND (SO==(&quot;TRANSPORTATION RESEARCH PART C EMERGING TECHNOLOGIES&quot;))]]></unparsedSearchNoLimits>
+<subtype></subtype>
+<options></options>
+<user_query_string_xml><Field><![CDATA[TS=((&quot;traffic flow*&quot;) AND (forecast* OR model* OR predict* OR simul* OR estimat*) AND (highway OR freeway OR motorway OR lane OR road OR street OR &quot;urban network*&quot; OR transportation))]]></Field></user_query_string_xml>
+<ss_lemmatization><![CDATA[On]]></ss_lemmatization>
+<ss_spellchecking><![CDATA[]]></ss_spellchecking>
+<ss_query_language><![CDATA[auto]]></ss_query_language>
+<isOneClickDaisyAuthor></isOneClickDaisyAuthor>
+<OneClickDaisyAuthorName></OneClickDaisyAuthorName>
+<relatedMetaData></relatedMetaData>
+<parentUT></parentUT>
+</application_data>
+</set>
+</sets>
+</search>

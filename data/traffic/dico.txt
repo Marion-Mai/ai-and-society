@@ -1,0 +1,4 @@
+traffic_1, Traffic & Logic-Based AI
+traffic_2, Traffic & Connexionnist AI
+traffic_3, Traffic & Big Data
+traffic_4, Traffic & Machine Learning, else

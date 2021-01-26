@@ -1,0 +1,4 @@
+t_1, Transportation and Logic-Based AI
+t_2, Transportation and Connexionnist AI
+t_3, Transportation and Big Data
+t_4, Transportation and Machine Learning, else

@@ -1,0 +1,4 @@
+wq_1, Water Quality & Logic-Based AI
+wq_2, Water Quality & Connexionnist AI
+wq_3, Water Quality & Big Data
+wq_4, Water Quality & Machine Learning, else
