@@ -5,7 +5,7 @@ R Scripts and data to reproduce the figures of the research article (under revie
 #### Citation
 Maisonobe, Marion. 2021. _AI and Society bibliometric analysis._
 
-# Overlap between Big Data, AI and Machine Learning corpus of publications 
+#### Overlap between Big Data, AI and Machine Learning corpus of publications 
 
 Using the [`Eulerr`](https://cran.r-project.org/package=eulerr) package.
 
