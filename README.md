@@ -3,7 +3,7 @@
 R Scripts and data to reproduce the figures of the _AI and Society_ research article: "The future of urban models in the Big Data and AI era: a bibliometric analysis (2000-2019)."
 
 #### Citation
-Maisonobe, Marion. 2021. _Scripts and data for AI and Society research article: "The future of urban models in the Big Data and AI era: a bibliometric analysis (2000-2019)."
+Maisonobe, Marion. 2021. Scripts and data for _AI and Society_ research article: "The future of urban models in the Big Data and AI era: a bibliometric analysis (2000-2019)."
 
 #### Overlap between Big Data, AI and Machine Learning corpus of publications 
 
