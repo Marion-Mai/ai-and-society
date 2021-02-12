@@ -3,8 +3,8 @@
 .Rapp.history
 
 # Data
-/data/water-quality/corpus
-/data/traffic/corpus
+/data/water-quality/corpus/
+/data/traffic/corpus/
 
 # Session Data files
 .RData
