@@ -4,7 +4,6 @@ R Scripts and data to reproduce the figures of the _AI and Society_ research art
 
 #### Citation
 Maisonobe, Marion. 2021. _Scripts and data for AI and Society research article: "The future of urban models in the Big Data and AI era: a bibliometric analysis (2000-2019)."
-_
 
 #### Overlap between Big Data, AI and Machine Learning corpus of publications 
 
